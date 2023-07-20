@@ -1,4 +1,11 @@
 # Chicago Crime Statistics
+
+<p align = "center"> 
+<img src = "https://github.com/jaytrey777/Chicago-Crime-Statistics/blob/main/Images/Tableau.png">
+<p>
+
+
+
  
 <p align = "center"> 
 Chicago Crimes by District
@@ -50,9 +57,4 @@ July has the most crimes committed with 717168 total crimes. August has the seco
 <p>
 February has the least crimes committed with 547594 total crimes. December has the second lowest crimes committed with 579679 total crimes.
 </p>
-
-
-<p align = "center"> 
-<img src = "https://github.com/jaytrey777/Chicago-Crime-Statistics/blob/main/Images/Tableau.png">
-<p>
 
