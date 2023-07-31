@@ -2,6 +2,9 @@
 
 <p align = "center"> 
 <img src = "https://github.com/jaytrey777/Chicago-Crime-Statistics/blob/main/Images/Tableau.png">
+ 
+[Tableau Link](https://public.tableau.com/views/ChicagoCrimeStatistics_16898869117700/ChicagoCrimebyDistrict?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 <p>
 
 
